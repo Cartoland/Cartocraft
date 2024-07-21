@@ -124,7 +124,7 @@
   "item.written_book.1.page.1.1": "SakuraPotato\nHexakon\n虚幻\n徐志摩\n雨宮\nEdwinHK\nGalacticAC\nWalkman\n遊戲亡\n米格MG(raphael_mg)\n天道瑪奇\n收音機\n村村(tag_villx)\n紙圓",
   "item.written_book.1.page.2.1": "ccJerrycc\nDavleek天天\n信Faith\n小冰島\nPikacnu",
   "entity.armor_stand.1.name.1": "请务必安装资源包游玩",
-  "item.stick.4.name.1": "如果你看到的是一根木棒,代表你没装好资源包",
+  "rp_test.success": "如果你看到的是一根木棒,代表你没装好资源包",
   "entity.armor_stand.2.name.1": "Cartocraft 卡多兰幻境",
   "block.sign.8.front_text1.1": "挑战守墓亡魂",
   "entity.armor_stand.3.name.1": "fire_control",
